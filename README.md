@@ -5,8 +5,8 @@ This project implements an Optical Character Recognition (OCR) model from scratc
 ## Features
 
 - **High Accuracy**: 
-  - Train Accuracy: 99.79%
-  - Validation Accuracy: 100.00%
+  - Train Accuracy: 99.68%
+  - Validation Accuracy: 99.04%
 - **Image Processing**: Handles image loading, preprocessing, and augmentation.
 - **Deep Learning**: Combines CNNs for feature extraction and RNNs for sequence prediction.
 - **Custom Loss Function**: Uses CTC loss to handle the alignment between predicted and true sequences.
@@ -40,6 +40,6 @@ This project implements an Optical Character Recognition (OCR) model from scratc
 
 ### Results
 
-- **Train Accuracy**: 99.79%
-- **Validation Accuracy**: 100.00%
+- **Train Accuracy**: 99.68%
+- **Validation Accuracy**: 99.04%
 
